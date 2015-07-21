@@ -1,0 +1,1 @@
+{ parameters: { database_host: mysql.cba.pl, database_port: null, database_name: lib_cba_pl, database_user: lib_user, database_password: haselko123321, mailer_transport: smtp, mailer_host: 127.0.0.1, mailer_user: null, mailer_password: null, secret: 381467c471710c2bd5bf7e6c8c829be95, database_driver: pdo_mysql, database_path: null } }
